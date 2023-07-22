@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Lato:wght@300&family=Roboto:wght@300&display=swap');
+
+* {
+    padding:0;
+    margin:0;
+}
+
+html {
+    font-family:Roboto, sans-serif !important;
+}
+.nep {
+    width:250px;
+    height:100px;
+}
+
+.img-size {
+    width:800; 
+    height:400px;
+}
+
+.carousel-item {
+  height:400px;
+
+}
+
+.navbar{
+    background-color:#F0F8FF !important;
+
+}
+
+
+.heading-1 {
+    text-align:center;
+    color:red;
+    padding-top:5%;
+}
+
+.container-fluid {
+    background-color:#F0F8FF;
+    height: 70% !important;
+}
+
+
+.para-1 {
+    text-align:center;
+    margin-bottom:10%;
+    padding-bottom:10%;
+    padding-top:5%;
+}
+
+.number {
+    text-align:center;
+    font-size:2rem;
+}
+
+.heading-2 {
+    text-align:center;
+    color:red;
+    padding-top:0;
+}
+
+.midlands {
+    text-align:center;
+    font-size:1.5rem;
+}
+
+.location {
+    text-align: center;
+}
+
+.email {
+    text-align: center;
+}
+
+.dropdown {
+    text-align:center;
+    margin-top:10% !important;
+}
+
+.container-opening {
+    height:50% !important;
+}
